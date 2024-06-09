@@ -1,0 +1,6 @@
+,MCQ,Choices,Correct
+0,What is the focus of the workshop on Generative AI at AIMLSystems?,a: Developing machine learning models | b: Data collection and processing | c: Building and deploying Generative AI systems | d: Ethical concerns in AI,c
+1,Which of the following is not a topic of interest for the workshop?,a: Deployment of Generative AI solutions | b: Responsible use of Gen AI | c: Evaluation of Language and Diffusion based models | d: Artificial intelligence in robotics,d
+2,What does Gen AI stand for?,a: General Artificial Intelligence | b: Generative Artificial Intelligence | c: Genetic Artificial Intelligence | d: Generalized Artificial Intelligence,b
+3,What type of models are used in Generative AI?,a: LLMs and Diffusion models | b: Neural networks and decision trees | c: Support vector machines and random forests | d: Reinforcement learning models,a
+4,What is one of the concerns associated with Generative AI technology?,"a: Efficiency in data collection | b: Fairness, transparency, and accountability | c: Security in model deployment | d: Accuracy of language evaluation",b
