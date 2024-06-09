@@ -65,7 +65,7 @@ with st.form("user_input"):
                             # Display the review in a text area as well
                             st.text_area(label="Review", value=response.get("review", ""), height=200)
                         else:
-                            st.error("Error processing the table data.")
+                            st.error("Error processing the table data Please try again.")
                     else:
                         st.error("No quiz data found in the response.")
                 else:
